@@ -28,7 +28,7 @@ pip install tensorflow numpy matplotlib
 ```
 ---
 
-# Dataset
+## Dataset
 The model uses the Fashion MNIST dataset, which contains 70,000 grayscale images of 10 different clothing categories. Each image is 28x28 pixels. The categories are as follows:
 - T-shirt/top
 - Trouser
